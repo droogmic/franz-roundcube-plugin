@@ -1,0 +1,23 @@
+{
+  "name": "hermes",
+  "version": "1.0.0",
+  "description": "Hermes webmail",
+  "main": "index.js",
+  "author": "droogmic <droogmic@yahoo.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://webmail.hermes.cam.ac.uk/",
+    "serviceName": "Hermes webmail",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
