@@ -15,4 +15,4 @@ Designed using <https://github.com/meetfranz/plugins>
 
 ### Hermes webmail for University of Cambridge
 
-To install simply drag and drop the hermes directory into the Franz plugin directory.
+To install simply drag and drop the hermes directory into the Franz plugin directory. A downside is that it regularly logs out.
